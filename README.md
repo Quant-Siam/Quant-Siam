@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm S M Siam 👋<br><br>💻 **Data Science & ML Enthusiast | Web Developer**<br><br>- 🔭 Currently building data-driven projects & full-stack web applications.<br>- 🛠️ **Tech Stack:** Python, Pandas, SQL, JavaScript, React, Supabase<br>- 🚀 **Tools & Platforms:** Google AI Studio, Render, Netlify, Git/GitHub<br>- 🎯 **Focus Areas:** Machine Learning, Data Science, and Web Development<br>- 📫 How to reach me: `[siamquant.personal21@gmail.com/ https://www.linkedin.com/in/s-m-siam-9819b7392/]`<br>- ⚡ **Fun Fact:** Always up for typing challenges and exploring new AI tech!<br><br>---
+### Hi there, I'm S M Siam 👋<br><br>💻 **Data Science & ML Enthusiast | Web Developer**<br><br>- 🔭 Currently building data-driven projects & full-stack web applications.<br>- 🛠️ **Tech Stack:** Python, Pandas, SQL, JavaScript, React, Supabase<br>- 🚀 **Tools & Platforms:** Google AI Studio, Render, Netlify, Git/GitHub<br>- 🎯 **Focus Areas:** Machine Learning, Data Science, and Web Development<br>- 📫 How to reach me: `[siam.personal21@gmail.com/ https://www.linkedin.com/in/s-m-siam-9819b7392/]`<br>- ⚡ **Fun Fact:** Always up for typing challenges and exploring new AI tech!<br><br>---
 
 
 ## 🌐 Socials:
